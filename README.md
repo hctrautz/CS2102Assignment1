@@ -1,5 +1,5 @@
 # CS2102Assignment1
-Create the initial software to record athletesâ€™ results in these events and to provide methods that do some basic performance comparisons between individual athletes. 
+Create the initial software to record athletes results in these events and to provide methods that do some basic performance comparisons between individual athletes. 
 
 1. Create an Athlete class with two fields: one holds a ShootingResult object and the other holds a SkiingResult object.
 
